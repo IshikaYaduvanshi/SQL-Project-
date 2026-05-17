@@ -19,9 +19,9 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - Customer Insights: The analysis identifies the top-spending customers and the most popular product categories.
 
 ## Reports
--Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
--Trend Analysis: Insights into sales trends across different months and shifts.
--Customer Insights: Reports on top customers and unique customer counts per category.
+- Sales Summary: A detailed report summarizing total sales, customer demographics, and category performance.
+- Trend Analysis: Insights into sales trends across different months and shifts.
+- Customer Insights: Reports on top customers and unique customer counts per category.
 
 ##Conclusion
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
