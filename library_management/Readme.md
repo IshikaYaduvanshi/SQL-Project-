@@ -15,5 +15,8 @@ This project demonstrates the implementation of a Library Management System usin
 - Advanced SQL Queries: Develop complex queries to analyze and retrieve specific data.
 
 1. Database Setup
+
+<img width="1000" height="1000" alt="library-management-system" src="https://github.com/user-attachments/assets/68b97d56-ac5e-4ac6-80fa-9cedbdb68afc" />
+
 - Database Creation: Created a database named library_db.
 - Table Creation: Created tables for branches, employees, members, books, issued status, and return status. Each table includes relevant columns and relationships.
